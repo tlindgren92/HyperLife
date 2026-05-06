@@ -5,7 +5,7 @@ Con ella podrás registrar hechos relevantes, establecer metas diarias, visualiz
 
 ---
 
-## 📊 Badges
+## 📊 Badges 
 
 ![License](https://img.shields.io/github/license/bellcodev/HyperLife?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/github/stars/bellcodev/HyperLife?style=for-the-badge&logo=github)
